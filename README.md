@@ -1,0 +1,2 @@
+# GolangStoreStructs
+Golang + Redis
